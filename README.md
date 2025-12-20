@@ -1,9 +1,9 @@
 ## netChen - Backend Developer
  
-👋 Hi, I'm netChen
-🎓 Dalian University of Technology   
-💼 Backend Developer Intern @ Meituan, Tencent  
-🌱 Focus on **backend development**, **system design**, and **distributed systems**
+- 👋 Hi, I'm netChen
+- 🎓 Dalian University of Technology   
+- 💼 Backend Developer Intern @ Meituan, Tencent  
+- 🌱 Focus on **backend development**, **system design**, and **distributed systems**
 
 ---
 
