@@ -4,6 +4,7 @@
 - 🎓 Dalian University of Technology   
 - 💼 Backend Developer Intern @ Meituan, @ Tencent  
 - 🌱 Focus on **backend development**, **system design**, and **distributed systems**
+- 纸上得来终觉浅，绝知此事要躬行
 
 ---
 
