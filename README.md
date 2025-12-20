@@ -24,9 +24,9 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your_github_username>&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FFForeverCode&show_icons=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your_github_username>&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FFForeverCode&layout=compact&hide_border=true)
 
 ---
 
