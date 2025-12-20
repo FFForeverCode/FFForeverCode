@@ -8,13 +8,13 @@
 
 ---
 
-## GitHub Personal Card
+## Personal Card
 
 ![GitHub Card](https://github-personal-card.vercel.app/card?user=FFForeverCode)
 
 ---
 
-## GitHub Stats
+## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FFForeverCode&show_icons=true&hide_border=true)
 ---
