@@ -1,18 +1,9 @@
-## 👋 Hi, I'm netChen
-
-🎓 Dalian University of Technology (985)  
+## netChen - Backend Developer
+ 
+👋 Hi, I'm netChen
+🎓 Dalian University of Technology   
 💼 Backend Developer Intern @ Meituan, Tencent  
-🌱 Backend Engineer | Open Source Contributor
-
----
-
-##  About Me
-
-- 🎓 Undergraduate student at **Dalian University of Technology**
-- 💼 Backend intern experience at **Meituan** and **Tencent**
--  Focus on **backend development**, **system design**, and **distributed systems**
--  Actively contributing to **open-source projects**
--  Believe in writing **clean, maintainable, production-ready code**
+🌱 Focus on **backend development**, **system design**, and **distributed systems**
 
 ---
 
