@@ -13,11 +13,9 @@
 ![GitHub Card](https://github-personal-card.vercel.app/card?user=FFForeverCode)
 
 ---
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FFForeverCode&show_icons=true&hide_border=true" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=FFForeverCode&show_icons=true&hide_border=true)
 
 ---
 ##  Contact
