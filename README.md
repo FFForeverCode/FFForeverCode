@@ -15,7 +15,7 @@
 ---
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=FFForeverCode&show_icons=true&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=FFForeverCode&show_icons=true&cache_seconds=86400)
 
 ---
 ##  Contact
