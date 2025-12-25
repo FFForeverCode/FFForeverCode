@@ -16,6 +16,7 @@
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=FFForeverCode&show_icons=true&cache_seconds=86400)
+![Uploading image.png…]()
 
 ---
 ##  Contact
