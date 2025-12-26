@@ -21,6 +21,11 @@
 </picture>
 
 ---
+## 🧠 Algorithm
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/jia-shui-bu-fang-tang?theme=light&font=Baloo&site=cn)
+
+---
 ##  Contact
 - [![GitHub](https://img.shields.io/badge/GitHub-FFForeverCode-181717?logo=github&logoColor=white)](https://github.com/FFForeverCode)
 - [![LeetCode](https://img.shields.io/badge/LeetCode-jia--shui--bu--fang--tang-FFA116?logo=leetcode&logoColor=white)](https://leetcode.cn/u/jia-shui-bu-fang-tang/)
