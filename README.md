@@ -27,6 +27,6 @@
 ---
 ##  Contact
 - [![GitHub](https://img.shields.io/badge/GitHub-FFForeverCode-181717?logo=github&logoColor=white)](https://github.com/FFForeverCode)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-jia--shui--bu--fang--tang-FFA116?logo=leetcode&logoColor=white)](https://leetcode.cn/u/jia-shui-bu-fang-tang/)
+- [![LeetCode](https://img.shields.io/badge/LeetCode-jia--shui--bu--fang--tang-FFA116?logo=leetcode&logoColor=white)](https://leetcode.cn/u/jia-shui-bu-fang-tang/)
 - [![Bilibili](https://img.shields.io/badge/Bilibili-netChen-00A1D6?logo=bilibili&logoColor=white)](https://space.bilibili.com/401767944)
-  [![Email](https://img.shields.io/badge/Email-2485757827%40qq.com-168DE2?logo=gmail&logoColor=white)](mailto:2485757827@qq.com)
+- [![Email](https://img.shields.io/badge/Email-2485757827%40qq.com-168DE2?logo=gmail&logoColor=white)](mailto:2485757827@qq.com)
