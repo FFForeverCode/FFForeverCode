@@ -21,7 +21,7 @@
 </picture>
 
 ---
-## 🧠 Algorithm
+## Algorithm
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jia-shui-bu-fang-tang?theme=light&font=Baloo&site=cn)
 
