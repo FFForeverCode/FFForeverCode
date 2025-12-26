@@ -17,6 +17,16 @@
 <img width="880" height="192" alt="image" src="https://github.com/user-attachments/assets/18aa8075-073a-454b-bf82-56b42a63f836" />
 
 ---
+
+## 🐍 GitHub Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FFForeverCode/FFForeverCode/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/FFForeverCode/FFForeverCode/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
 ##  Contact
-- GitHub: https://github.com/FFForeverCode
-- 📧 Email: 2485757827@qq.com
+[![GitHub](https://img.shields.io/badge/GitHub-FFForeverCode-181717?logo=github&logoColor=white)](https://github.com/FFForeverCode)
+[![LeetCode](https://img.shields.io/badge/LeetCode-jia--shui--bu--fang--tang-FFA116?logo=leetcode&logoColor=white)](https://leetcode.cn/u/jia-shui-bu-fang-tang/)
+[![Bilibili](https://img.shields.io/badge/Bilibili-netChen-00A1D6?logo=bilibili&logoColor=white)](https://space.bilibili.com/401767944)
+[![Email](https://img.shields.io/badge/Email-2485757827%40qq.com-168DE2?logo=gmail&logoColor=white)](mailto:2485757827@qq.com)
