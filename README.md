@@ -13,10 +13,6 @@
 ![GitHub Card](https://github-personal-card.vercel.app/card?user=FFForeverCode)
 
 ---
-## 📊 GitHub Stats
-<img width="880" height="192" alt="image" src="https://github.com/user-attachments/assets/18aa8075-073a-454b-bf82-56b42a63f836" />
-
----
 
 ## 🐍 GitHub Contribution Snake
 <picture>
