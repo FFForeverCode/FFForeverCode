@@ -21,9 +21,7 @@
 
 <p align="center">
   <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=FFForeverCode&show_icons=true&theme=transparent" />
-  <img height="160"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=FFForeverCode&theme=transparent" />
+       src="https://github-readme-stats.vercel.app/api?username=FFForeverCode&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
 </p>
 
 ---
@@ -38,16 +36,5 @@
 <p align="left">
   <img src="https://leetcard.jacoblin.cool/cxf6660206?theme=light&font=Karma" />
 </p>
-
----
-
-<details>
-<summary>🎮 Fun Facts</summary>
-
-- Turning complex backend problems into clean abstractions
-- Obsessed with performance, stability and observability
-- Night coding with coffee ☕️
-
-</details>
 
 ---
