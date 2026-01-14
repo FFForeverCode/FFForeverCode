@@ -10,7 +10,7 @@
 ##  Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/netChen/netChen/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/FFForeverCode/FFForeverCode/output/github-contribution-grid-snake.svg" />
 </p>
 
 > Generated automatically from my GitHub contributions 🧩
@@ -21,9 +21,9 @@
 
 <p align="center">
   <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=netChen&show_icons=true&theme=transparent" />
+       src="https://github-readme-stats.vercel.app/api?username=FFForeverCode&show_icons=true&theme=transparent" />
   <img height="160"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=netChen&theme=transparent" />
+       src="https://github-readme-streak-stats.herokuapp.com/?user=FFForeverCode&theme=transparent" />
 </p>
 
 ---
