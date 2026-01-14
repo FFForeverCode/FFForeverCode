@@ -33,6 +33,7 @@
 - Go / Java backend engineering practices
 - Backend interview knowledge systematization
 
-![LeetCode](https://img.shields.io/badge/LeetCode-cxf6660206-orange?logo=leetcode)
+<img src="https://raw.githubusercontent.com/FFForeverCode/FFForeverCode/output/leetcode.svg" />
+
 
 ---
