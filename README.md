@@ -23,6 +23,7 @@
 - High-throughput backend system design
 - Go / Java backend engineering practices
 - Backend interview knowledge systematization
-  <img src="https://stats.justsong.cn/api/leetcode?username=jia-shui-bu-fang-tang&cn=true&theme=github" />
+
+<img src="https://raw.githubusercontent.com/FFForeverCode/FFForeverCode/output/leetcode.svg" />
 
 ---

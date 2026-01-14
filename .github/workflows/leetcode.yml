@@ -1,4 +1,4 @@
-name: LeetCode Stats
+name: LeetCode Minimal Stats
 
 on:
   schedule:
@@ -11,14 +11,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate LeetCode stats image
-        uses: zwacky/leetcode-stats-card@v1.4.3
+      - name: Generate LeetCode SVG
+        uses: JustSong/leetcode-stats-action@master
         with:
-          username: "jia-shui-bu-fang-tang"
-          leetcode_cn: true
-          output: leetcode_stats.svg
-          theme: dark
-          locale: en
+          username: jia-shui-bu-fang-tang
+          cn: true
+          theme: minimal
+          output: leetcode.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
