@@ -2,9 +2,15 @@
 
 - Dalian University of Technology · Software Engineering
 - Backend Developer
-- Former Backend Intern @ Meituan · Tencent · JD
 - Distributed Systems & High-Concurrency Backend
-
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Tencent_Logo.svg" height="20" />
+  &nbsp;@Tencent&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Meituan_Logo.svg" height="20" />
+  &nbsp;@Meituan&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/JD.com_Logo.svg" height="20" />
+  &nbsp;@JD
+</p>
 ---
 
 ##  Contribution Snake
@@ -26,11 +32,13 @@
 
 <p align="left">
   <a href="https://github.com/FFForeverCode">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="32" />
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="28" />
   </a>
-  &nbsp;&nbsp;
+</p>
+
+<p align="left">
   <a href="https://leetcode.cn/u/jia-shui-bu-fang-tang/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="32" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="28" />
   </a>
 </p>
 
