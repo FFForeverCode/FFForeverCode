@@ -11,11 +11,14 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: JustSong/leetcode-stats-action@master
+      - name: Generate LeetCode stats image
+        uses: zwacky/leetcode-stats-card@v1.4.3
         with:
-          username: jia-shui-bu-fang-tang
-          cn: true
-          output: leetcode.svg
+          username: "jia-shui-bu-fang-tang"
+          leetcode_cn: true
+          output: leetcode_stats.svg
+          theme: dark
+          locale: en
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
