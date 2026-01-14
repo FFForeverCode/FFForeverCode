@@ -24,7 +24,7 @@
 - Go / Java backend engineering practices
 - Backend interview knowledge systematization
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/jia-shui-bu-fang-tang?theme=dark&font=Source%20Code%20Pro&cache=86400)
+![LeetCode Stats](https://raw.githubusercontent.com/FFForeverCode/FFForeverCode/output/leetcode.svg)
 
 
 ---
