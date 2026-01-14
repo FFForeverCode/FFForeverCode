@@ -27,13 +27,11 @@
 ## Linked
 <p align="left">
   <a href="https://github.com/FFForeverCode">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="28" />
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="32" />
   </a>
-</p>
-
-<p align="left">
+  &nbsp;&nbsp;
   <a href="https://leetcode.cn/u/jia-shui-bu-fang-tang/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="28" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="32" />
   </a>
 </p>
 
