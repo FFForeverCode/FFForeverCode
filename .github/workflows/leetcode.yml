@@ -1,4 +1,4 @@
-name: LeetCode Minimal Stats
+name: LeetCode Stats
 
 on:
   schedule:
@@ -8,16 +8,20 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v3
 
       - name: Generate LeetCode SVG
         uses: JustSong/leetcode-stats-action@master
         with:
           username: jia-shui-bu-fang-tang
           cn: true
-          theme: minimal
           output: leetcode.svg
+
+      - name: List files (debug)
+        run: ls -al
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
