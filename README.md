@@ -24,6 +24,9 @@
 - Go / Java backend engineering practices
 - Backend interview knowledge systematization
 
-<img src="https://raw.githubusercontent.com/FFForeverCode/FFForeverCode/output/leetcode.svg" />
+
+- GitHub: https://github.com/FFForeverCode
+- LeetCode (CN): https://leetcode.cn/u/jia-shui-bu-fang-tang/
+
 
 ---
