@@ -1,16 +1,9 @@
 ## 👋 Hi, I'm netChen
 
 - Dalian University of Technology · Software Engineering
+- Former Backend Intern @ Meituan（🦘美团） · Tencent（🐧腾讯） · JD（🐶京东）
 - Backend Developer
 - Distributed Systems & High-Concurrency Backend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tencent.png" height="18" />
-  &nbsp;@Tencent&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/meituan.png" height="18" />
-  &nbsp;@Meituan&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jdcom.png" height="18" />
-  &nbsp;@JD
-</p>
 ---
 
 ##  Contribution Snake
