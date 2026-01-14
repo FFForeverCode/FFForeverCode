@@ -13,7 +13,7 @@ jobs:
 
       - uses: JustSong/leetcode-stats-action@master
         with:
-          username: cxf6660206
+          username: jia-shui-bu-fang-tang
           cn: true
           output: leetcode.svg
 
