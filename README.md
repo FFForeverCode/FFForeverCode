@@ -17,15 +17,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=FFForeverCode&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
-</p>
-
----
-
 ## Currently Learning
 
 - Distributed consistency & cache strategies
