@@ -4,11 +4,11 @@
 - Backend Developer
 - Distributed Systems & High-Concurrency Backend
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Tencent_Logo.svg" height="20" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tencent.png" height="18" />
   &nbsp;@Tencent&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Meituan_Logo.svg" height="20" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/meituan.png" height="18" />
   &nbsp;@Meituan&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/JD.com_Logo.svg" height="20" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jdcom.png" height="18" />
   &nbsp;@JD
 </p>
 ---
