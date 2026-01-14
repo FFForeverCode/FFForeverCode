@@ -33,8 +33,6 @@
 - Go / Java backend engineering practices
 - Backend interview knowledge systematization
 
-<p align="left">
-  <img src="https://leetcard.jacoblin.cool/cxf6660206?theme=light&font=Karma" />
-</p>
+![LeetCode](https://img.shields.io/badge/LeetCode-cxf6660206-orange?logo=leetcode)
 
 ---
