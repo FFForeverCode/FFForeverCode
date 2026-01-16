@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm netChen
 
-- Dalian University of Technology · Software Engineering
+- Dalian University of Technology · Software Engineering (2023-2027)
 - Former Backend Intern @ Meituan（🦘美团） · Tencent（🐧腾讯） · JD（🐶京东）
 - Backend Developer
 - Distributed Systems & High-Concurrency Backend
