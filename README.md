@@ -1,4 +1,4 @@
-## 👋 Hi, I'm netChen
+## 👋 Hi, I'm chenxiaofei 陈晓飞
 
 - Dalian University of Technology · Software Engineering (2023-2027)
 - Former Backend Intern @ Meituan（🦘美团） · Tencent（🐧腾讯） · JD（🐶京东）
